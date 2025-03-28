@@ -16,6 +16,8 @@ ms.search.form: WHSLocationLimit
 
 You can use the **Location stocking limits** page (**Warehouse management \> Setup \> Warehouse \> Location stocking limits**) to control the load capacity at warehouse locations without having to use the more advanced processes for volumetric calculations of physical products.
 
+>[!NOTE] This feature controls the stock limit at the location profile level, not at the location level.
+
 The purpose of location stocking limits is to evaluate the maximum quantity that a location can contain. You can set up the feature on any of three levels, each of which has its own tab on the **Location stocking limits** page:
 
 - Products
